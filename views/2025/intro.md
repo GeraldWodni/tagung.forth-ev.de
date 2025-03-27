@@ -6,6 +6,8 @@ Nach vielen virtuellen Jahren finden wir uns zur ordentlichen Tagung der Forth-G
 Die Tagung findet vom 24.  bis 27.  April 2025 im [WIR-Projekt Tagungshaus](https://www.wir-projekt.de) in
 Burladingen statt.
 
+Anmeldeschluss: 13.4.2025, wer zu spät bucht, schläft im Mehrbettzimmer (wir haben 15 Räume, die nach Buchungspriorität vergeben werden)!
+
 [Anreise](https://www.wir-projekt.de/tagungshaus/so-finden-sie-uns/)
 
 ![0](/images/2025/burg-hohenzollern-klein.jpg)

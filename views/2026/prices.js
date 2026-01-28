@@ -5,7 +5,7 @@ module.exports = {
     year: 2026,
     registerButton: "Anmelden",
     myName: "meineTagung",
-    operatorEmail: "tagung@net2o.de",
+    operatorEmail: "secretary@forth-ev.de",
     operatorBankAccount: "HINWEIS: dieser Wert wird über eine Umgebungsvariable bereitgestellt",
 
     /* message to show after successful registration */
@@ -39,18 +39,28 @@ module.exports = {
     },
     hotels: [
         {
-            header: "Forth Tagung im WIR-Projekt Tagungshaus (24.-27. April)",
-            description: "Übernachten+Tagung im WIR-Projekt Tagungshaus",
+            header: "Forth Tagung in der DHJ Jugendherberge (10.-12. April)",
+            description: "Übernachten+Tagung in der Jugendherberge",
             modes: [
-                { name: "Übernachtung + Tagungsbeitrag:", value: "Tagung+SingleRoom", complete: 295.00, defaultMode: true },
-            ]
+                { name: "Übernachtung Mehrbettzimmer + Tagungsbeitrag:", value: "Tagung+MultiRoom",  complete: 286.00, defaultMode: true },
+                { name: "Übernachtung Einzelzimmer + Tagungsbeitrag:", value: "Tagung+SingleRoom", complete: 382.00 },
+            ],
+            extraDays: [{
+                name: "Donnerstag (Tag0)",
+                "single": 167,
+                "double": 121,
+            }],
         },
         {
-            header: "Forth Tagung ohne Übernachtungen (24.-27. April)",
-            description: "Tagung im WIR-Projekt Tagungshaus",
+            header: "Forth Tagung ohne Übernachtungen (10.-12. April)",
+            description: "Tagung in der DHJ Jugendherberge, Übernachtung zu Hause oder selbst organisiert",
             modes: [
-                { name: "Tagungsbeitrag:", value: "Tagung", complete: 220.00 },
-            ]
+                { name: "Tagungsbeitrag:", value: "Tagung", complete: 150.00 },
+            ],
+            extraDays: [{
+                name: "Donnerstag (Tag0)",
+                "double": 52,
+            }],
         },
     ]
 }

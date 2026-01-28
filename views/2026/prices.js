@@ -47,7 +47,8 @@ module.exports = {
             ],
             extraDays: [{
                 name: "Donnerstag (Tag0)",
-                "single": 167,
+                value: "TAG0",
+                single: 167,
                 "double": 121,
             }],
         },
@@ -59,6 +60,8 @@ module.exports = {
             ],
             extraDays: [{
                 name: "Donnerstag (Tag0)",
+                value: "TAG0",
+                "single": 52,
                 "double": 52,
             }],
         },

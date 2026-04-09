@@ -33,7 +33,7 @@ module.exports = {
     },
     meeting: {
         openRegistration: "2026-01-23",
-        start: "2026-04-25",
+        start: "2026-04-09",
         partnerComplete: 220,
         partnerWithout0: 220,
     },

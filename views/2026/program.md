@@ -1,5 +1,5 @@
 # Programm
-## TBA
+## DJH Jugendherberge, Bochum, 9-12. April 2026
 
 **on air** ... these session are streamed live on [twitch](https://www.twitch.tv/4ther), recorded and shared on [youtube](https://www.youtube.com/channel/UC_mpkwOO_1ILd66GUTNVPQg) for future generations to enjoy and to rewatch
 

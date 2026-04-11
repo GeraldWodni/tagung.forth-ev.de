@@ -24,8 +24,8 @@ SESSIONS(2026-04-10) Workshops / Important night talks
 SESSION(Sitzung 3) Mittagspause
 * _13:00_ Mittagessen
 SESSION(Sitzung 5) Ende Vortragsteil
-* _18:00_ Abendessen
-* _ab 20:00_ Workshops
+* _19:00_ Abendessen
+* _ab 21:00_ Workshops
 
 #### Sonntag, 12. April CEST
 - _08:00_ Frühstück
